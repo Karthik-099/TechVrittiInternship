@@ -37,8 +37,8 @@
     Once the containers are running, open your browser and navigate to:
     <ul>
         "http://localhost:8080/index.html"   Form Page
-        <li><a href="http://localhost:8080/quiz.html">Quiz Page</a></li>
-        <li><a href="http://localhost:8080/php/admin.php">Admin Dashboard</a></li>
+        "http://localhost:8080/quiz.html"  Quiz Page
+        "http://localhost:8080/php/admin.php"  Admin Dashboard
     </ul>
     
     Viewing the Database and Stored Data
