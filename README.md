@@ -35,11 +35,11 @@
     
     Step 4: Access the Application
     Once the containers are running, open your browser and navigate to:
-    <ul>
+    
         "http://localhost:8080/index.html"   Form Page
         "http://localhost:8080/quiz.html"  Quiz Page
         "http://localhost:8080/php/admin.php"  Admin Dashboard
-    </ul>
+    
     
     Viewing the Database and Stored Data
     
