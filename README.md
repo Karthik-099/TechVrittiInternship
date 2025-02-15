@@ -1,17 +1,17 @@
 Installation and Setup
 
 Step 1: Clone the Repository
-Clone the repository to your local machine:
-1 git clone https://github.com/Karthik-099/TechVrittiInternship.git
+Clone the repository to your local machine: \\
+1 git clone https://github.com/Karthik-099/TechVrittiInternship.git \\
 2 cd TechVrittiInternship
 
 
-Step 2: Pull the Docker Image (Optional)
-If you don’t want to build the image locally, you can pull it from Docker Hub:
-1 docker pull karthik75/techvritti-app
+Step 2: Pull the Docker Image (Optional)\\
+If you don’t want to build the image locally, you can pull it from Docker Hub:\\
+1 docker pull karthik75/techvritti-app\\
 
 
-Step 3: Start the Application
+Step 3: Start the Application\\
 Run the application using Docker Compose:
 1 docker-compose up --build
 This will start:
