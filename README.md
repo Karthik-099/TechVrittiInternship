@@ -43,19 +43,19 @@
     
     Viewing the Database and Stored Data
     
-    <h3>Step 1: Access the MySQL Container</h3>
-    <p>To view the data stored in the MySQL database:</p>
-    <pre>
-        docker exec -it techvritti-db-1 mysql -u user -p
-    </pre>
-    <p>Enter the password when prompted:</p>
-    <pre>
-        password: password
-    </pre>
+    Step 1: Access the MySQL Container
+    To view the data stored in the MySQL database:
     
-    <h3>Step 2: Run Queries</h3>
-    <p>Once inside the MySQL shell, run the following commands:</p>
-    <pre>
+        docker exec -it techvritti-db-1 mysql -u user -p
+    
+    Enter the password when prompted:
+    
+        password: password
+    
+    
+    Step 2: Run Queries
+    Once inside the MySQL shell, run the following commands:
+    
         USE internship_portal;
 
         -- View all students
@@ -63,6 +63,6 @@
 
         -- View all quiz questions
         SELECT * FROM questions;
-    </pre>
+    
 </body>
 </html>
